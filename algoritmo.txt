@@ -1,0 +1,25 @@
+Pedimos el nombre al usuario 
+Una vez tengamos el  nombre, preguntaremos por la edad 
+Preguntaremos al usuario si esta casado
+Si esta casado, se pedira la edad del esposo o esposa 
+Si no esta casado, se cambiara a la siguiente pregunta 
+Se preguntara si tiene hijos, y cuantos tiene 
+Si no tiene, se pasara a la siguiente pregunta 
+Se preguntara si tiene propiedades, y cuantas tiene
+Si no tiene, se pasara a la siguiente pregunta
+Se preguntara si es asalariado, y la cantidad que devenga mensualmente
+Si no es asalariado, el programa evaluara la informacion obtenida
+Si la edad del usuario es mayor a 18 pero menor a 25, se hara un recargo del 10%
+Si la edad del usuario es mayor a 25 pero menor a 50, se hara un recargo del 20%
+Si la edad del usuario es mayor a 50, se hara un recargo del 30%
+Si el conyuge es mayor a 18 pero menor 25, se hara un recargo del 10%
+Si el conyuge es mayor a 25 pero menor 50, se hara un recargo del 20%
+Si el conyuge es mayor a 50 , se hara un recargo del 30%
+Si la persona ingreso hijos, se multiplicara la cantidad por un recargo del 20%
+Si la persona tiene propiedades, se multiplicara la cantidad por un recargo del 35%
+Si la persona es asalariada, se hara un recargo del 5%
+Se tomaran todos los recargos adicionales, y se sumaran con el precio base 
+Se mostrara en pantalla, para el asegurado, el recargo total sera: los totales de los recargos
+Y el precio final sera los recargos mas el precio base 
+El programa preguntara al usuario si quiere continuar, de lo contrario, mostrara: gracias por utilizar el sistema
+
